@@ -5,6 +5,9 @@ Three things about me:
 2. I love startups.
 3. I love startups.
 
+Oh yea, and also just wanted to mention that I love startups.
+
+Now instead of going on and on and on about how great I am, why I'm the best fit, and all that jazz, I just wanted to let you know how great you are for checking out my github, so thank you.
 <!--
 **harism06/harism06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
