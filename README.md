@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Haris 👋
+
+Three things about me:
+1. I love startups.
+2. I love startups.
+3. I love startups.
 
 <!--
 **harism06/harism06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
