@@ -9,7 +9,7 @@ Oh yea, and I also just wanted to mention that I love startups.
 
 Now instead of going on and on and on about how great I am, why I'm the best fit, and all that jazz, I just wanted to let you know how great YOU are for checking out my GitHub, so thank you.
 
-I try to write on here as well mostly inspired by Paul Graham so feel free to check that out if you're interested.
+Besides the occasional side projects, I try to write on here as well mostly inspired by Paul Graham so feel free to check that out if you're interested.
 <!--
 **harism06/harism06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
