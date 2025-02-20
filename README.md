@@ -13,7 +13,7 @@ Besides the occasional side projects, I try to write on here so feel free to che
 
 Here are some of my writings if you're interested!
 
-1. f
+1. [Low Supply](https://github.com/harism06/Low_Supply/blob/main/README.md)
 2. [Giving](https://github.com/harism06/Giving/blob/main/README.md)
 3. [Bubble](https://github.com/harism06/Bubble/blob/main/README.md)
 4. [Wealthy](https://github.com/harism06/Wealthy/blob/main/README.md)
