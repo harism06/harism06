@@ -2,16 +2,9 @@
 
 Favorite quote: "Some men see things as they are and say why? I dream things that never were and say why not?" ~RFK
 
-Three things about me:
-1. I love startups.
-2. I love startups.
-3. I love startups.
+Instead of going on and on about how great I am, why I'm the best fit, and all that jazz, I just wanted to let you know how great you are for checking out my GitHub, so thank you!!
 
-Oh yea, and I also just wanted to mention that I love startups.
-
-Now instead of going on and on and on about how great I am, why I'm the best fit, and all that jazz, I just wanted to let you know how great YOU are for checking out my GitHub, so thank you.
-
-Besides the occasional side projects, I try to write on here so feel free to check that out if you're interested.
+Besides the occasional side projects, I try to write on here, so feel free to check that out if you're interested.
 
 Here are some of my writings if you're interested!
 
