@@ -1,5 +1,7 @@
 ## Hi there, I'm Haris 👋
 
+Favorite quote: "Some men see things as they are and say why? I dream things that never were and say why not?" ~RFK
+
 Three things about me:
 1. I love startups.
 2. I love startups.
