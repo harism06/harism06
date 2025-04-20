@@ -1,6 +1,6 @@
 ## Hi there, I'm Haris 👋
 
-Favorite quote: "Some men see things as they are and say why? I dream things that never were and say why not?" ~RFK
+'Some men see things as they are and say why? I dream things that never were and say why not?' ~RFK
 
 Instead of going on and on about how great I am, why I'm the best fit, and all that jazz, I just wanted to let you know how great you are for checking out my GitHub, so thank you!!
 
