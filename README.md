@@ -11,5 +11,5 @@ Here are some of my writings if you're interested!
 1. [Low Supply](https://github.com/harism06/Low_Supply/blob/main/README.md)
 2. [Giving](https://github.com/harism06/Giving/blob/main/README.md)
 3. [Bubble](https://github.com/harism06/Bubble/blob/main/README.md)
-4. [Wealthy](https://github.com/harism06/Wealthy/blob/main/README.md)
+4. [Prediction](https://github.com/harism06/Prediction/blob/main/README.md)
 5. [Artificial Intelligence](https://github.com/harism06/AI/blob/main/README.md)
