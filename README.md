@@ -13,3 +13,8 @@ Here are some of my writings if you're interested!
 3. [Bubble](https://github.com/harism06/Bubble/blob/main/README.md)
 4. [Prediction](https://github.com/harism06/Prediction/blob/main/README.md)
 5. [Artificial Intelligence](https://github.com/harism06/AI/blob/main/README.md)
+
+Here are some writings I find very interesting:
+
+1. [A Tiny Ripple of Hope](https://github.com/harism06/RFK/blob/main/README.md)
+2. [You and Your Research](https://github.com/harism06/Hamming/blob/main/README.md)
