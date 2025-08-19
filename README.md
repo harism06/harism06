@@ -2,7 +2,7 @@
 
 Instead of going on and on about how great I am, why I'm the best fit, and all that jazz, I just wanted to let you know how great you are for checking out my GitHub, so thank you!!
 
-'God already knows everything about you. So he puts you through experiences so you can get to know about yourself.' ~me 😊
+'God already knows everything about you. So he puts you through experiences so you can get to know more about yourself.' ~me 😊
 
 Besides the occasional side projects, I try to write on here, so feel free to check that out if you're interested.
 
